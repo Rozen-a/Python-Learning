@@ -40,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.GradesSort.executor": "Run",
     "Python.PriceCalculator.executor": "Debug",
     "Python.StudentSystem.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
